@@ -1,0 +1,65 @@
+# NAME: OKX
+# TOTAL: 3
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+
+# NAME: bybit
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+
+# NAME: redotpay
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+
+
+# NAME: binance
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.io
+DOMAIN-SUFFIX,appsflayer.com
