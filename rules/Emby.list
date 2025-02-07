@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,cfde.xmsl.org
 DOMAIN-SUFFIX,hd.xmsl.org
 DOMAIN-SUFFIX,ushd.xmsl.org
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,streamer-cf.pilipiliultra.com
 DOMAIN-SUFFIX,pub3.term.wtf
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-KEYWORD,term.wtf
+DOMAIN-KEYWORD,xmsl.org
 DOMAIN-KEYWORD,emby.wtf
 IP-CIDR,51.158.151.67/24,no-resolve
 PROCESS-NAME,com.mb.android
