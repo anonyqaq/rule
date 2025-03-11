@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,sfcj.org
@@ -7,6 +6,4 @@ DOMAIN-KEYWORD,emby.moe
 DOMAIN-KEYWORD,sfcj.org
 DOMAIN-KEYWORD,term.wtf
 DOMAIN-KEYWORD,xmsl.org
-DOMAIN-KEYWORD,emby.wtf
-IP-CIDR,51.158.151.67/24,no-resolve
 PROCESS-NAME,com.mb.android
